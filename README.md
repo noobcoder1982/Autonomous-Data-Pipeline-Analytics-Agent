@@ -119,13 +119,6 @@ streamlit run app.py
 
 ---
 
-## 👥 Team
-
-* Abhijeet Panda
-* Team Members (Add names)
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates how AI can **democratize data access**, allowing even non-technical users to interact with complex datasets using natural language.
