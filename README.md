@@ -86,9 +86,10 @@ pip install streamlit duckdb langchain langchain-community
 ```
 
 ### 2. Run the app
-
+## Restart the Runtime and just run this for being in the safe side and reduce errors as much as possible
 ```
-streamlit run app.py
+!pkill -f streamlit
+!streamlit run app1.py & npx localtunnel --port 8501
 ```
 
 ---
